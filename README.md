@@ -21,12 +21,13 @@ Designed with a mobile-first approach to provide a smooth experience on phones a
 ---
 
 ## 🌍 Live Demo
-👉 https://nahor-dev.github.io/📱 To-Do App/
+👉 https://nahor-dev.github.io/To-Do-app/
 
 ---
 
+
 ## 📸 Screenshot
-to-do-app.png
+![App Screenshot](to-do-app.png)
 
 ---
 
